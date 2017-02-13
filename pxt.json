@@ -1,14 +1,14 @@
 {
     "name": "pxt-motordriver",
     "version": "0.0.2",
-    "description": "lorem ipsum",
+    "description": "A PXT package to lorem ipsum",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "motordriver.ts"
+        "main.ts"
     ],
     "testFiles": [],
     "public": true
