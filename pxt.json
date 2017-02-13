@@ -1,18 +1,16 @@
 {
-    "name": "motordriver",
+    "name": "pxt-motordriver",
     "version": "0.0.1",
     "description": "lorem ipsum",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
         "motordriver.ts"
     ],
     "testFiles": [
-        "tests.ts"
     ],
-    "public": false
+    "public": true
 }
