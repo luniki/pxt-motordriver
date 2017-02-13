@@ -10,7 +10,6 @@
         "README.md",
         "motordriver.ts"
     ],
-    "testFiles": [
-    ],
+    "testFiles": [],
     "public": true
 }
