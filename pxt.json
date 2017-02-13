@@ -9,7 +9,7 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "motordriver.ts"
     ],
     "testFiles": [
         "tests.ts"
